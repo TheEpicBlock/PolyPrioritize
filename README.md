@@ -1,9 +1,6 @@
-# Fabric Example Mod
+# PolyPrioritize
+A small utility mod for use with [PolyMc](https://github.com/TheEpicBlock/PolyMc).  
+It reads from the config and prioritizes all of the blocks in it. This means they'll get a poly first.  
+If you have issues with blocks turning into stone due to block limits running out, this mod will help you prioritize important blocks first.
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+For more customisation, check out the [PolyMc api](https://theepicblock.github.io/PolyMc/api/).
